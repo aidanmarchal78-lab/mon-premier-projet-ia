@@ -1,3 +1,6 @@
-nom=input("Comment tu t'appelles?"
-          print(Bonjour"+nom+"!")
-          print("Bienvenue dans le monde de l'ia
+	nom = input("Commennt tu t'appelles ?")
+	age = input("Quel age as tu? " )
+	if age == "12":
+	    print("Felicitations " + nom + " ! ")
+	else:
+	        print("Bonjour " + nom + " ! ")
